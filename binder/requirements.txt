@@ -1,3 +1,4 @@
 abcd_pyhf==0.0.6
 matplotlib
 numpy
+pyhf==0.7.5
